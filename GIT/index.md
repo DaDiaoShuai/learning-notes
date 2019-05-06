@@ -1,5 +1,7 @@
 ## Git
 
+> <https://learngitbranching.js.org/> 此处趣味学习深化git
+
 1. 常规工作流
    1. `git init `初始化本地git仓库
    2. `git add [filename]` 添加改动文件到暂存区，一般没什么特殊的就`git add .`
